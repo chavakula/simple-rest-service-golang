@@ -1,0 +1,4 @@
+pkg
+src/restservice/vendor
+src/restservice/Gopkg.lock
+src/restservice/Gopkg.toml
