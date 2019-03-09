@@ -1,6 +1,6 @@
 # Simple REST service in GOLANG
 
-This example will show you how to quickly create a REST service in GOLANG.
+This example will show you how to quickly create a REST service in GOLANG. (Without Database support)
 
 ## Installation
 
